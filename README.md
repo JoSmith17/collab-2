@@ -12,3 +12,6 @@ Told me to make an html page and link to it.
 
 You should edit an HTML file. Add a paragraph about something you like.
     - added to first_task
+
+You should create an array of numbers in a Javascript file, if there isn't one. Write a function that returns an array of the even numbers.
+    - added numbers.js

@@ -5,3 +5,10 @@
 5. Greg pulls repo down, adds/completes task, then adds, commits, and pushes to repo.
 6. Steps 4-5 repeated until drill is complete.
 7. Once final push is done, submit link to this repo.
+
+## Tasks
+Told me to make an html page and link to it.
+    - added first_task.html
+
+You should edit an HTML file. Add a paragraph about something you like.
+    - added to first_task

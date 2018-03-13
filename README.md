@@ -18,3 +18,6 @@ You should create an array of numbers in a Javascript file, if there isn't one. 
 
 Slack your partner. You should both create a new HTML file. Link to it from index.html
     - added names.html
+
+You should remove a file other than index.html.
+    -removed about.html

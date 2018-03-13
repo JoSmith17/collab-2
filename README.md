@@ -15,3 +15,6 @@ You should edit an HTML file. Add a paragraph about something you like.
 
 You should create an array of numbers in a Javascript file, if there isn't one. Write a function that returns an array of the even numbers.
     - added numbers.js
+
+Slack your partner. You should both create a new HTML file. Link to it from index.html
+    - added names.html
